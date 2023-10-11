@@ -1,2 +1,2 @@
-# Automation.github.io
+# Automation
 practice makes perfect
